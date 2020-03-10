@@ -46,8 +46,10 @@ app.use(
   app.use(userNormalroute)
   app.use(productNormalroute)
   app.use(productApiroute)
-  app.listen(5555,function(){
-    console.log("session loading...")
-});
+const PORT = process.env.PORT || 5000;
+
+app.listen(PORT, () => console.log(`Server is listening on port ${PORT}...`));
+
+
 
 
