@@ -1,0 +1,386 @@
+[
+    {
+        "category": "men",
+        "image_url": "/img/men/images.jpg",
+        "name": "Puma",
+        "price": 2000
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (0).jpg",
+        "name": "Reebok",
+        "price": 1990
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (1).jpg",
+        "name": "Puma",
+        "price": 1200
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (2).jpg",
+        "name": "Puma",
+        "price": 2004
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (3).jpg",
+        "name": "Puma",
+        "price": 2010
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (4).jpg",
+        "name": "Puma",
+        "price": 2000
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (5).jpg",
+        "name": "Puma",
+        "price": 1900
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (6).jpg",
+        "name": "Puma",
+        "price": 1600
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (7).jpg",
+        "name": "Puma",
+        "price": 1000
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (8).jpg",
+        "name": "Puma",
+        "price": 9000
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (9).jpg",
+        "name": "Puma",
+        "price": 2000
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (10).jpg",
+        "name": "Puma",
+        "price": 2100
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (11).jpg",
+        "name": "Puma",
+        "price": 2200
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (12).jpg",
+        "name": "Puma",
+        "price": 2300
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (13).jpg",
+        "name": "Puma",
+        "price": 2000
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (14).jpg",
+        "name": "Puma",
+        "price": 2400
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (15).jpg",
+        "name": "Puma",
+        "price": 2000
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (16).jpg",
+        "name": "Puma",
+        "price": 2700
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (17).jpg",
+        "name": "Puma",
+        "price": 2000
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (18).jpg",
+        "name": "Puma",
+        "price": 2000
+    },
+    {
+        "category": "men",
+        "image_url": "/img/men/images (19).jpg",
+        "name": "Puma",
+        "price": 2000
+    },
+    {
+        "category": "women",
+        "image_url": "/img/women/download.jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (1).jpg",
+        "name": "Puma",
+        "price": 3000
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (2).jpg",
+        "name": "Puma",
+        "price": 1000
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (3).jpg",
+        "name": "Puma",
+        "price": 5000
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (4).jpg",
+        "name": "Puma",
+        "price": 7000
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (5).jpg",
+        "name": "Puma",
+        "price": 28000
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (6).jpg",
+        "name": "Puma",
+        "price": 3200
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (7).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (8).jpg",
+        "name": "Puma",
+        "price": 2200
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (9).jpg",
+        "name": "Puma",
+        "price": 2500
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (10).jpg",
+        "name": "Puma",
+        "price": 2700
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (11).jpg",
+        "name": "Puma",
+        "price": 2000
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (12).jpg",
+        "name": "Puma",
+        "price": 1900
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (13).jpg",
+        "name": "Puma",
+        "price": 2400
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (14).jpg",
+        "name": "Puma",
+        "price": 2000
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (15).jpg",
+        "name": "Puma",
+        "price": 2000
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (16).jpg",
+        "name": "Puma",
+        "price": 2900
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (17).jpg",
+        "name": "Puma",
+        "price": 2400
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (18).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (19).jpg",
+        "name": "Puma",
+        "price": 1900
+      },
+      {
+        "category": "women",
+        "image_url": "/img/women/download (20).jpg",
+        "name": "Puma",
+        "price": 1900
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/download.jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images.jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (1).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (2).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (3).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (4).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (5).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (6).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (7).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (8).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (9).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (10).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (11).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (12).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (13).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (14).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (15).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (16).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (17).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (18).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (19).jpg",
+        "name": "Puma",
+        "price": 2100
+      },
+      {
+        "category": "kids",
+        "image_url": "/img/kids/images (20).jpg",
+        "name": "Puma",
+        "price": 2100
+      }
+]

@@ -1,0 +1,81 @@
+<div class="container">
+  <div class="row mt-5">
+    <div class="col-5 mt-5">
+      <img src="{{p.image_url}}" />
+    </div>
+    <div class="col-5 mt-5">
+      <p>name: {{p.name}}</p>
+      <p>price: {{p.price}}</p>
+      <p>category: {{p.category}}</p>
+      <button type="button" class="btn btn-primary btn-lg">Buy now</button>
+      
+      <a href="addtocart/{{p._id}}"  <button type="button" class="btn btn-secondary btn-lg">Add to cart</button></a>
+    </div>
+    <div class="col-2" style="height: 400px; overflow: scroll" >
+      {{#each review}}
+      <li style="list-style-type:none;">
+        <h6>{{this.name}}</h6>
+        <p>{{this.review}}</p>
+      {{/each}}
+      <p>write review</p>
+      <form action="{{req.path}}" method="POST">
+        <input name="name" type="text" placeholder="enter name">
+        <input name="review" type="text" placeholder="enter review">
+        <input type="submit">
+      </form>
+    </div>
+  </div>
+
+  <div class="row row-cols-1 col-10 row-cols-md-5">
+    <div class="col mb-4">
+      <div class="card h-100">
+        <img src="{{other.image_url}}" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{other.name}}</h5>
+          <p class="card-text">{{other.price}}</p>
+          <a href="{{other._id}}"><button type="button" class="btn btn-info">Buy now</button></a>
+        </div>
+      </div>
+    </div>
+    <div class="col mb-4">
+      <div class="card h-100">
+        <img src="{{other1.image_url}}" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{other1.name}}</h5>
+          <p class="card-text">{{other1.price}}</p>
+          <a href="{{other1._id}}"><button type="button" class="btn btn-info">Buy now</button></a>
+        </div>
+      </div>
+    </div>
+    <div class="col mb-4">
+      <div class="card h-100">
+        <img src="{{other2.image_url}}" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{other2.name}}</h5>
+          <p class="card-text">{{other2.price}}</p>
+          <a href="{{other2._id}}"><button type="button" class="btn btn-info">Buy now</button></a>
+        </div>
+      </div>
+    </div>
+    <div class="col mb-4">
+      <div class="card h-100">
+        <img src="{{other3.image_url}}" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{other3.name}}</h5>
+          <p class="card-text">{{other3.price}}</p>
+          <a href="{{other3._id}}"><button type="button" class="btn btn-info">Buy now</button></a>
+        </div>
+      </div>
+    </div>
+    <div class="col mb-4">
+      <div class="card h-100">
+        <img src="{{other4.image_url}}" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{other4.name}}</h5>
+          <p class="card-text">{{other4.price}}</p>
+          <a href="{{other4._id}}"><button type="button" class="btn btn-info">Buy now</button></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
